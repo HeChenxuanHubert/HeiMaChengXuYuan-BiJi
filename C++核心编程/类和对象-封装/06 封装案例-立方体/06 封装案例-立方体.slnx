@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="06 封装案例-立方体/06 封装案例-立方体.vcxproj" />
+</Solution>

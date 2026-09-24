@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="07 封装案例2-点和圆关系/07 封装案例2-点和圆关系.vcxproj" />
+</Solution>
