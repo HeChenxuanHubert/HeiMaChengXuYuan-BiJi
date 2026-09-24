@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="05 深拷贝与浅拷贝/05 深拷贝与浅拷贝.vcxproj" Id="d5059c54-c3a1-4c07-ac7f-e53ba0501e0e" />
+</Solution>
