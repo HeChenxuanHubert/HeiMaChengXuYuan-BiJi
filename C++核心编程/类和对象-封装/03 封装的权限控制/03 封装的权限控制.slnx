@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="03 封装的权限控制/03 封装的权限控制.vcxproj" />
+</Solution>
