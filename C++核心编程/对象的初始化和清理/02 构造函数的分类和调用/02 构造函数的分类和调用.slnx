@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="E:/C++/学习/C++核心编程/对象的初始化和清理/02 构造函数的分类和调用/02 构造函数的分类和调用/02 构造函数的分类和调用.vcxproj" Id="b1cdc5c1-d5a1-4a6d-af75-f0c41cb67495" />
+</Solution>

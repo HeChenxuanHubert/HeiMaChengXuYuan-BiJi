@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01 构造函数和析构函数/01 构造函数和析构函数.vcxproj" Id="61e1035a-f17e-4034-82f9-84203bfb7670" />
+</Solution>

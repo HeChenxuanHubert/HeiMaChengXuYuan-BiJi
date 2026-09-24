@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="03 拷贝构造函数调用时机/03 拷贝构造函数调用时机.vcxproj" Id="9d158712-4f42-4d4a-b86a-54a680774fe4" />
+</Solution>

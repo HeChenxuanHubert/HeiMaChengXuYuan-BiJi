@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="04 构造函数调用规则/04 构造函数调用规则.vcxproj" />
+</Solution>
