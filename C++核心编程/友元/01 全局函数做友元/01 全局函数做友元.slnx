@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="01 全局函数做友元/01 全局函数做友元.vcxproj" Id="9dcbe9b1-473f-4ed1-bb3d-79c2694487ba" />
-</Solution>
