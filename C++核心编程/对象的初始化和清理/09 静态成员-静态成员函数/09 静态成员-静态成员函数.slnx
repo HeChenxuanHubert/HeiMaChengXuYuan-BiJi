@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="09 静态成员-静态成员函数/09 静态成员-静态成员函数.vcxproj" />
+</Solution>
